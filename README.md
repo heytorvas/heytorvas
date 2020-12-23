@@ -59,8 +59,7 @@
   <img src="https://img.shields.io/badge/DarthBore12%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
 </p>
 
-<h3>Stats</h3>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
-
-
-<br/>
+[![Years Badge](https://badges.pufler.dev/years/heytorvas)](https://badges.pufler.dev)
+[![Repos Badge](https://badges.pufler.dev/repos/heytorvas)](https://badges.pufler.dev)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/heytorvas)](https://badges.pufler.dev)
