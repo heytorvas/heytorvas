@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hi, I'm Heytor Víctor 👋
+<h3>Front-end</h3>
+<p>
+  <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript%20-%23323330.svg?&style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/TypeScript%20-%23007ACC.svg?&style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular%20-%23DD0031.svg?&style=flat-square&logo=angular&logoColor=white"/>
+</p>
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,3 +19,5 @@
 -->
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
+<br/>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&redirect=true)
