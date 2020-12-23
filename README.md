@@ -1,4 +1,5 @@
 <img src="header.png">
+
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,6 +11,7 @@
 - ⚡ Fun fact: ...
 -->
 
+## Technologies
 <h3>Front-end</h3>
 <p>
   <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -46,7 +48,7 @@
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/>
 </p>
 
-<h3>Social Network</h3>
+## Social Network
 <p>
   <a href="https://heytorvas.github.io" target="_blank"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://linkedin.com/in/heytorvictor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -54,14 +56,18 @@
   <a href="https://discord.com/users/417302268698689556" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
-<h3>Gaming</h3>
+## Gaming
 <p>
   <a href="https://steamcommunity.com/profiles/76561198831444865" target="_blank"><img src="https://img.shields.io/badge/DarthBore12%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/DarthBore12-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
   <img src="https://img.shields.io/badge/DarthBore12%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
 </p>
 
+## Stats
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
 [![Years Badge](https://badges.pufler.dev/years/heytorvas)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/heytorvas)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/heytorvas)](https://badges.pufler.dev)
+
+<br/>
