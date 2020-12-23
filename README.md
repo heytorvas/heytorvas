@@ -59,6 +59,8 @@
   <img src="https://img.shields.io/badge/DarthBore12%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
 </p>
 
+<h3>Stats</h3>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
+
+
 <br/>
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&redirect=true)
