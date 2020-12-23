@@ -63,12 +63,21 @@
   <img src="https://img.shields.io/badge/DarthBore12%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
 </p>
 
-# Stats
+# :octocat: Stats
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
 [![Years Badge](https://badges.pufler.dev/years/heytorvas)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/heytorvas)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/heytorvas)](https://badges.pufler.dev)
+
+<br/>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/heytorvas" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
+  </a>
+</p>
+
 
 # :musical_score: Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&redirect=true)
