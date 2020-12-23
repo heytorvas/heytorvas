@@ -37,8 +37,8 @@
 
 <h3>Social Network</h3>
 <p>
-  <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/%3CServer%3E%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
+  <a href="https://linkedin.com/in/heytorvictor" alt="Linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
