@@ -41,6 +41,13 @@
   <a href="https://discord.com/users/417302268698689556" target="_blank"><img src="https://img.shields.io/badge/Discord%20-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a>
 </p>
 
+<h3>Gaming</h3>
+<p>
+  <a href="https://steamcommunity.com/profiles/76561198831444865" target="_blank"><img src="https://img.shields.io/badge/DarthBore12%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/DarthBore12-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DarthBore12%20-%2300AEFF.svg?&style=for-the-badge&logo=battle.net&logoColor=white"/>
+</p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=heytorvas.visitor-badge)
 <br/>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&redirect=true)
