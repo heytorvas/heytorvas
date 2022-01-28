@@ -40,12 +40,14 @@
 
 <h3>Tools</h3>
 <p>
+  <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/apache%20-%23D42029.svg?&style=for-the-badge&logo=apache&logoColor=white"/>
   <img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/>
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Git-%2312100E.svg?logo=git&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GitHub-black?logo=GitHub&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black"/>
 </p>
 
 # :satellite: Social Network
@@ -78,7 +80,3 @@
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" >
   </a>
 </p>
-
-
-# :musical_score: Music
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=heytor_victor&redirect=true)
