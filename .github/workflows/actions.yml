@@ -3,10 +3,7 @@ name: Actions
 on:
   pull_request:
     branches:
-      - '*'
-      - '*/*'
-      - '**'
-      - '!main'
+      - main
 
 jobs:
   check-lint:
