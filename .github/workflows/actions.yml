@@ -1,0 +1,53 @@
+name: Actions
+
+on:
+  pull_request:
+    branches:
+      - '*'
+      - '*/*'
+      - '**'
+      - '!main'
+
+jobs:
+  check-lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: chartboost/ruff-action@v1
+        with:
+          src: .ruff.toml
+
+  check-vulnerabilities:
+    runs-on: ubuntu-20.04
+    steps:
+      - uses: actions/checkout@v3
+      - name: Build the Container image
+        working-directory: ./
+        run: docker build . --file Dockerfile --tag heytorvas:latest
+      - name: Run Trivy vulnerability scanner
+        uses: aquasecurity/trivy-action@master
+        with:
+          image-ref: heytorvas:latest
+          format: 'table'
+          exit-code: '1'
+          ignore-unfixed: true
+          vuln-type: 'os,library'
+          severity: 'CRITICAL,HIGH'
+
+  tests:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        python-version: [3.12]
+        os: [ubuntu-latest, macOS-latest, windows-latest]
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: 'pip'
+      - name: Install dependencies and testing with pytest
+        run: |
+          pip install poetry
+          poetry install
+          poetry run pytest tests/
