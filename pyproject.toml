@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "heytorvas"
-version = "0.0.2"
+version = "0.0.3"
 description = "Heytor Victor's Portfolio"
 authors = ["Heytor Victor <heytor@heytor.dev>"]
 readme = "README.md"
