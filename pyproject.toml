@@ -9,7 +9,7 @@ readme = "README.md"
 python = "^3.8"
 rich = "13.9.4"
 typer = "0.13.1"
-pytest = "8.3.3"
+pytest = "8.3.4"
 
 [tool.poetry.scripts]
 heytorvas = "heytorvas.main:main"
